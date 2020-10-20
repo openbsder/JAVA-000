@@ -7,6 +7,11 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Objects;
 
+/**
+ * HelloClassLoader
+ *
+ * @version V1.0
+ */
 public class HelloClassLoader extends ClassLoader {
     public static final String HELLO_CLASS_FILE_PATH = "hello/Hello.xlass";
     public static final String HELLO_CLASS_NAME = "Hello";
