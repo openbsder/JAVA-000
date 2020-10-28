@@ -657,7 +657,7 @@ $ wrk -t4 -c40 -d60s --latency http://localhost:8088/api/hello
   * 可以设置STW时间。
   * 适用于大内存、兼顾吞吐量和停顿时间的场合。
   
-## Q4 写一段代码，使用 HttpClient 或 OkHttp 访问 http://localhost:8801，代码提交到Github。
+## Q4 写一段代码，使用 HttpClient或OkHttp访问http://localhost:8801，代码提交到Github。
 
 How to run
 
