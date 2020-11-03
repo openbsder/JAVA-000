@@ -32,7 +32,7 @@
                             <transformers>
                                 <transformer
                                         implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>com.test.App</mainClass>
+                                    <mainClass>com.test.GatewayApp</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
