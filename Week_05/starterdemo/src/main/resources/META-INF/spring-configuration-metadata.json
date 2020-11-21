@@ -1,0 +1,17 @@
+{
+  "properties": [
+    {
+      "sourceType": "org.example.starterdemo.StudentProperties",
+      "name": "demo.student.id",
+      "type": "java.lang.Integer",
+      "defaultValue": 0,
+      "description": "student id"
+    },
+    {
+      "sourceType": "org.example.starterdemo.StudentProperties",
+      "name": "demo.student.name",
+      "type": "java.lang.String",
+      "description": "student name"
+    }
+  ]
+}
